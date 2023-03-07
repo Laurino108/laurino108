@@ -1,4 +1,5 @@
-### Hi there! 👋
+![Header](https://github.com/Laurino108/laurino108/blob/main/header.png?raw=true)
+
 I'm Laurino, a apprentice from Germany who loves full-stack development. I've been interested in small-scale back-end projects recently and, I'm always looking to grow my knowledge of computers and technology as a whole.
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,idea,visualstudio,vscode,ps,ae,discord)](https://skillicons.dev)
