@@ -1,4 +1,4 @@
-![Header](https://github.com/Laurino108/laurino108/blob/main/Intro-Header.png?raw=true)
+![Header](https://github.com/Laurino108/laurino108/blob/main/header.png?raw=true)
 
 I'm Laurino, a apprentice from Germany who loves full-stack development. I've been interested in small-scale back-end projects recently and, I'm always looking to grow my knowledge of computers and technology as a whole.
 
