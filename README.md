@@ -4,13 +4,9 @@ I write back-end applications in C# and modern front-ends using JavaScript In my
 My working model is very simple and only makes sense for me as a developer who likes to experiment: you build it you run it.
 In my daily work as a junior developer I work with C# as mentioned at the beginning.
 
-<hr/>
-
 ## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,visualstudio,vscode,photoshop,aftereffects,linkedin,discord,mongodb,cs,html,css&theme=dark)
-
-<hr/>
 
 ## Contact
 
