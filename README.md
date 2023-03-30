@@ -4,12 +4,16 @@ I write back-end applications in C# and modern front-ends using JavaScript In my
 My working model is very simple and only makes sense for me as a developer who likes to experiment: you build it you run it.
 In my daily work as a junior developer I work with C# as mentioned at the beginning.
 
--
+<hr/>
+
+## My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,visualstudio,vscode,photoshop,aftereffects,linkedin,discord,mongodb,cs,html,css&theme=dark)
 
-### Contact
+<hr/>
 
-📧 Mail • [`webmaster@stapfl.net`](mailto:laurin@stapfl.net)  
+## Contact
+
+📧 Mail • [`laurin@stapfl.net`](mailto:laurin@stapfl.net)  
 
 💬 Discord • [`laurino#1008`](https://discord.com/users/842752885602254906) 
