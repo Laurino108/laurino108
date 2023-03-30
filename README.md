@@ -1,6 +1,10 @@
 ![Header](https://github.com/Laurino108/laurino108/blob/main/header.png?raw=true)
 
-I'm Laurino, a apprentice from Germany who loves full-stack development. I've been interested in small-scale back-end projects recently and, I'm always looking to grow my knowledge of computers and technology as a whole.
+I write back-end applications in C# and modern front-ends using JavaScript In my spare time I also program various Discord bots with discord.js
+My working model is very simple and only makes sense for me as a developer who likes to experiment: you build it you run it.
+In my daily work as a junior developer I work with C# as mentioned at the beginning.
+
+-
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,visualstudio,vscode,photoshop,aftereffects,linkedin,discord,mongodb,cs,html,css&theme=dark)
 
