@@ -6,7 +6,7 @@ In my daily work as a junior developer I work with C# as mentioned at the beginn
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=javascript,visualstudio,vscode,photoshop,aftereffects,linkedin,discord,mongodb,cs,html,css&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=laravel,cs,javascript,photoshop,linkedin,visualstudio,vscod,discord,postman&theme=dark)
 
 ## Contact
 
