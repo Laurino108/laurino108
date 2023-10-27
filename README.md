@@ -6,7 +6,7 @@ I'm slated to complete my apprenticeship in 2024 with my final project, highligt
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=laravel,cs,javascript,photoshop,linkedin,visualstudio,vscode,discord,postman&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=laravel,php,cs,javascript,photoshop,linkedin,visualstudio,vscode,discord,postman&theme=dark)
 
 ## Contact
 
