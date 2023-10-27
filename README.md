@@ -1,8 +1,8 @@
 ![Header](https://github.com/Laurino108/laurino108/blob/main/readme-header.png?raw=true)
 
-I write back-end applications in C# and modern front-ends using JavaScript In my spare time I also program various Discord bots with discord.js
-My working model is very simple and only makes sense for me as a developer who likes to experiment: you build it you run it.
-In my daily work as a junior developer I work with C# as mentioned at the beginning.
+I'm 18 years old and currently in an apprenticeship at WIKA Group to become an Application Developer.
+Currently, i mainly work with C#, PHP Laravel, and Livewire, encompassing both frontend and backend development in the area of web realm. 
+I'm slated to complete my apprenticeship in 2024 with my final project, highligting an important milestone in my journey.
 
 ## My Skills
 
