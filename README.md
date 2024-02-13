@@ -10,6 +10,4 @@ I'm slated to complete my apprenticeship in 2024 with my final project, highligt
 
 ## Contact
 
-📧 Mail • [`laurin@stapfl.net`](mailto:laurin@stapfl.net)  
-
-💬 Discord • [`laurino#1008`](https://discord.com/users/842752885602254906) 
+🌐 Website • [`laurino.info`](https://laurino.info)  
